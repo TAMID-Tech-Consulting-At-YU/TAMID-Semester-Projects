@@ -57,3 +57,31 @@ Create a study report in the format of your choice (e.g. a Google Slides present
 In your presentation, explain the certification you have chosen, including the key topics and technologies it covers, requirements for obtaining the certification, and career opportunities related to it. Share your study experience, including any challenges and strategies for success, and offer recommendations for other students who may be interested in obtaining the certification in the future.
 
 Be prepared to give a 15 minute presentation to the class, summarizing the key points of your report.
+
+
+# Assignment: Machine Learning with Python and Dataset Analysis
+
+## Objective 
+
+Familiarize students with the process of using machine learning to analyze a dataset and to apply their Python skills.
+
+## Instructions
+
+Find a dataset that interests you. There are many public datasets available online, such as on Kaggle (https://www.kaggle.com/datasets), UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets.php), or the United States government's data portal (https://data.gov/).
+
+Research the dataset you have chosen, including the following:
+- Description of the data and its features
+- Potential applications or use cases
+- Challenges or limitations associated with the data
+
+Clean and pre-process the data as necessary, including handling missing values, normalizing features, and splitting the data into training and testing sets.
+
+Choose a machine learning algorithm that is appropriate for the type of problem you wish to solve (e.g. classification, regression, clustering, etc.).
+
+Train your chosen algorithm on the training data and evaluate its performance on the testing data.
+
+Create a report in the format of your choice (e.g. a Google Slides presentation, a Word document, a Jupyter Notebook)
+
+In your report, explain the dataset you have chosen, the machine learning algorithm you have used, the results of your analysis, and any insights you have gained from the data.
+
+Be prepared to give a 15 minute presentation to the class, summarizing the key points of your report.
