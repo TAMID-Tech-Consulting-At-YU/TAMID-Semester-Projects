@@ -1,5 +1,7 @@
 # TAMID-Semester-Projects
 
+Choose one of the following assignments
+
 # Assignment: Open Source Software Project Presentation
 
 ## Objective
