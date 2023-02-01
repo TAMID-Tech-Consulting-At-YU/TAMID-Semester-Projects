@@ -111,3 +111,24 @@ Familiarize students with building a multithreaded server and the principles of 
 6. In your report, explain your design decisions, including the architecture of your server and the use of object-oriented programming principles. Provide examples of the code you have written and any challenges you encountered while building the server.
 
 7. Be prepared to give a 15 minute presentation to the class, summarizing the key points of your report and demonstrating the functionality of your server.
+
+
+# Assignment: Networking and Cybersecurity Fundamentals and Online Capture the Flag (CTF) Challenges
+
+## Objective: 
+
+Familiarize students with the basics of networking and cybersecurity and to give them hands-on experience with online Capture the Flag (CTF) challenges.
+
+## Instructions
+
+1. Research the fundamentals of networking and cybersecurity, including the OSI model, IP addressing, DNS, and basic cryptography concepts.
+
+2. Familiarize yourself with online Capture the Flag (CTF) challenges, such as those offered by hackthebox.eu or other platforms.
+
+3. Participate in a CTF challenge or complete a previously solved one, and document your thought process and steps taken to solve each challenge.
+
+4. Create a report in the format of your choice (e.g. a Google Slides presentation, a Word document, a Jupyter Notebook)
+
+5. In your report, explain the networking and cybersecurity concepts you have learned and the CTF challenges you have completed. Highlight any difficulties you encountered and the steps you took to overcome them.
+
+6. Be prepared to give a 15 minute presentation to the class, summarizing the key points of your report and demonstrating the challenges you have solved.
