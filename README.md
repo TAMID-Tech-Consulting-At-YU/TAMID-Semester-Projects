@@ -132,3 +132,27 @@ Familiarize students with the basics of networking and cybersecurity and to give
 5. In your report, explain the networking and cybersecurity concepts you have learned and the CTF challenges you have completed. Highlight any difficulties you encountered and the steps you took to overcome them.
 
 6. Be prepared to give a 15 minute presentation to the class, summarizing the key points of your report and demonstrating the challenges you have solved.
+
+
+
+# Assignment: Startup Idea and Software Design & Development
+
+## Objective: 
+
+Encourage students to use their creativity and technical skills to develop a startup idea and create software to support it.
+
+## Instructions:
+
+1. Come up with a unique startup idea that solves a problem or fills a gap in the market.
+
+2. Conduct market research to validate your idea and assess the feasibility of your startup.
+
+3. Design and develop a software prototype that supports your startup idea. You may use any programming language and framework of your choice.
+
+4. Create a report in the format of your choice (e.g. a Google Slides presentation, a Word document, a Jupyter Notebook)
+
+5. In your report, explain your startup idea, the market research you have conducted, and the design and development of your software prototype. 
+
+6. Discuss any challenges you encountered and the steps you took to overcome them.
+
+7. Be prepared to give a 15 minute presentation to the class, summarizing the key points of your report and demonstrating the functionality of your software prototype.
