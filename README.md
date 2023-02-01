@@ -1,6 +1,19 @@
 # TAMID-Semester-Projects
 
-Choose one of the following assignments
+1. Choose one of the following assignments
+
+2. If you wish to collaborate with other students, coordinate with them to ensure that you are working on the same assignment.
+
+3. Over the course of the semester, work on the chosen assignment, following the instructions provided and making use of the resources available to you.
+
+4. Keep track of your progress and document any challenges or obstacles you encounter along the way.
+
+5. Submit intermediate progress reports as requested.
+
+6. At the end of the semester, submit the final report and any relevant files.
+
+7. Be prepared to give a presentation to the class, demonstrating the work you have done and summarizing the key points of your report.
+
 
 # Assignment: Open Source Software Project Presentation
 
