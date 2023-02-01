@@ -14,6 +14,16 @@
 
 7. Be prepared to give a presentation to the class, demonstrating the work you have done and summarizing the key points of your report.
 
+### Progress Tracking and Component Deconstruction
+
+Issue Tracking:
+
+[Jira](https://www.atlassian.com/software/jira/guides/getting-started/basics#step-1-create-a-project)
+
+Version Control:
+
+[Git](https://github.com/) or [Bitbucket](https://bitbucket.org/product)
+
 
 # Assignment: Open Source Software Project Presentation
 
