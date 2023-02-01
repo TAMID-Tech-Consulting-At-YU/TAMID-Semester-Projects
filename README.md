@@ -208,4 +208,4 @@ The goal of this homework assignment is to build a software engineering infrastr
 
 2. A comprehensive documentation of the infrastructure, including setup and usage instructions.
 
-3. A brief presentation (10-15 minutes) explaining the infrastructure and how it supports the software development lifecycle.
+3. A brief presentation (10-15 minutes) explaining the infrastructure and how it supports the software development lifecycle. 
