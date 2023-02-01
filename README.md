@@ -85,3 +85,27 @@ Create a report in the format of your choice (e.g. a Google Slides presentation,
 In your report, explain the dataset you have chosen, the machine learning algorithm you have used, the results of your analysis, and any insights you have gained from the data.
 
 Be prepared to give a 15 minute presentation to the class, summarizing the key points of your report.
+
+
+
+# Assignment: Multithreaded Server and Object Oriented Programming
+
+## Objective
+
+Familiarize students with building a multithreaded server and the principles of object-oriented programming.
+
+## Instructions
+
+Choose a programming language that you are comfortable with (e.g. Python, Java, C++, etc.).
+
+Research the basics of multithreaded servers and the principles of object-oriented programming in your chosen language.
+
+Design and build a multithreaded server that performs a simple task such as echoing back messages sent to the server.
+
+Adhere to good object-oriented programming practices such as encapsulation, inheritance, and polymorphism.
+
+Create a report in the format of your choice (e.g. a Google Slides presentation, a Word document, a LaTeX file)
+
+In your report, explain your design decisions, including the architecture of your server and the use of object-oriented programming principles. Provide examples of the code you have written and any challenges you encountered while building the server.
+
+Be prepared to give a 15 minute presentation to the class, summarizing the key points of your report and demonstrating the functionality of your server.
