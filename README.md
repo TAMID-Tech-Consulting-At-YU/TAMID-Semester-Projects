@@ -179,3 +179,33 @@ Encourage students to use their creativity and technical skills to develop a sta
 6. Discuss any challenges you encountered and the steps you took to overcome them.
 
 7. Be prepared to give a 15 minute presentation to the class, summarizing the key points of your report and demonstrating the functionality of your software prototype.
+
+
+
+# Assignment: Building a Software Engineering Infrastructure
+
+## Objective
+
+The goal of this homework assignment is to build a software engineering infrastructure for numerous teams to use for their software development lifecycle. The infrastructure should include tools and processes to support collaboration, code management, continuous integration, and deployment.
+
+## Instructions
+
+1. Choose a version control system (such as Git) and set it up on a central repository.
+
+2. Choose a task/project management tool (such as Trello, JIRA, or Asana) and set it up for the teams to use.
+
+3. Choose a continuous integration/continuous deployment tool (such as Jenkins, Travis CI, or CircleCI) and set it up to automatically build, test, and deploy code changes to a staging environment.
+
+4. Choose a testing framework (such as JUnit, TestNG, or Selenium) and set it up for the teams to use for automated testing.
+
+5. Choose a code review tool (such as GitHub Pull Requests or Gerrit) and set it up for the teams to use for peer review of code changes.
+
+6. Document the entire process and tools used, including setup and usage instructions, and make it available to all teams.
+
+## Deliverables
+
+1. A fully functional software engineering infrastructure including version control, task management, continuous integration/deployment, testing, and code review.
+
+2. A comprehensive documentation of the infrastructure, including setup and usage instructions.
+
+3. A brief presentation (10-15 minutes) explaining the infrastructure and how it supports the software development lifecycle.
